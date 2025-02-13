@@ -1,9 +1,14 @@
 # FILE-HANDLING-UTILITY
 "COMPANY": CODTECH IT SOLUTIONS
+
 "NAME" : KAMALIKA BOSE
+
 "INTERN ID": CT12TMX
+
 "DOMAIN" : JAVA PROGRAMMING
+
 "DURATION" : 8 WEEKS
+
 "MENTOR" : NEELA SANTOSH
 
 #Overview
@@ -22,6 +27,7 @@ The File class in Java is the primary way to handle files and directories. It is
 
 The File class has two constructors:
 1️⃣ One that takes a String representing the file path
+
 2️⃣ Another File object representing the file path
 
 #Contents
